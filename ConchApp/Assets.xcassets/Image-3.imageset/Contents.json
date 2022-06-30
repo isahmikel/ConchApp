@@ -1,12 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "NimbusSpeaks.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "nimbussquarepng.png",
+      "filename" : "NimbusSpeaks.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
