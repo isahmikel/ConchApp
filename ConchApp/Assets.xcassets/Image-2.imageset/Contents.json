@@ -1,17 +1,14 @@
 {
   "images" : [
     {
-      "filename" : "ligghtehrjyfyfjbhkvkkjnfvdjnsdfjdsjnkdn.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ligghtehrjyfyfjbhkvkkjnfvdjnsdfjdsjnkdn-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ligghtehrjyfyfjbhkvkkjnfvdjnsdfjdsjnkdn-2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
