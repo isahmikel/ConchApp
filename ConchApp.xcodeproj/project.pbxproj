@@ -31,6 +31,7 @@
 		BD28AC5A286B8F6100B895E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD28AC5C286B8F6100B895E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD28AC62286E040D00B895E4 /* Jua-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Jua-Regular.ttf"; path = "../../../../Downloads/jua/Jua-Regular.ttf"; sourceTree = "<group>"; };
+		BD4B0A51286F5ABF000A13BE /* Jua-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Jua-Regular.ttf"; path = "../../../Downloads/jua/Jua-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +74,7 @@
 				BD28AC59286B8F6100B895E4 /* LaunchScreen.storyboard */,
 				BD28AC5C286B8F6100B895E4 /* Info.plist */,
 				BD28AC54286B8F5F00B895E4 /* ConchApp.xcdatamodeld */,
+				BD4B0A51286F5ABF000A13BE /* Jua-Regular.ttf */,
 				BD28AC62286E040D00B895E4 /* Jua-Regular.ttf */,
 			);
 			path = ConchApp;
