@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B620A12F286EA80D0060D27C /* AddMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B620A12E286EA80D0060D27C /* AddMessageViewController.swift */; };
+		B620A131286F3ECE0060D27C /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B620A130286F3ECE0060D27C /* AddTaskViewController.swift */; };
 		BD28AC4C286B8F5F00B895E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD28AC4B286B8F5F00B895E4 /* AppDelegate.swift */; };
 		BD28AC4E286B8F5F00B895E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD28AC4D286B8F5F00B895E4 /* SceneDelegate.swift */; };
 		BD28AC50286B8F5F00B895E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD28AC4F286B8F5F00B895E4 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		B620A12E286EA80D0060D27C /* AddMessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMessageViewController.swift; sourceTree = "<group>"; };
+		B620A130286F3ECE0060D27C /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 		BD28AC48286B8F5F00B895E4 /* ConchApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConchApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD28AC4B286B8F5F00B895E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD28AC4D286B8F5F00B895E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				BD28AC4D286B8F5F00B895E4 /* SceneDelegate.swift */,
 				BD28AC4F286B8F5F00B895E4 /* ViewController.swift */,
 				B620A12E286EA80D0060D27C /* AddMessageViewController.swift */,
+				B620A130286F3ECE0060D27C /* AddTaskViewController.swift */,
 				BD28AC51286B8F5F00B895E4 /* Main.storyboard */,
 				BD28AC57286B8F6100B895E4 /* Assets.xcassets */,
 				BD28AC59286B8F6100B895E4 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD28AC50286B8F5F00B895E4 /* ViewController.swift in Sources */,
+				B620A131286F3ECE0060D27C /* AddTaskViewController.swift in Sources */,
 				B620A12F286EA80D0060D27C /* AddMessageViewController.swift in Sources */,
 				BD28AC56286B8F5F00B895E4 /* ConchApp.xcdatamodeld in Sources */,
 				BD28AC4C286B8F5F00B895E4 /* AppDelegate.swift in Sources */,
